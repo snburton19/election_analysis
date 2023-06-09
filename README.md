@@ -1,5 +1,5 @@
 # Election Analysis - Module 3 Challenge
-<sub>Chapel Hill - Data Science Bootcamp</sub>
+<sub>UNC Chapel Hill Data Analytics Bootcamp</sub>
 
 ## Overview of Project
 For Module 3, Python was used to calculate and display the results of a small-scale election in Colorado spanning the counties of Jefferson, Denver, and Arapahoe. The election data was given in a .csv file containing voter IDs (acting as primary keys to identify each vote as a single person), the county in which the vote was cast, and the candidate that received the vote. Using this information, the python script computed the total number of votes, the number and percentage of votes from each county, and the number and percentage of votes each candidate received. From these numbers, the county with the largest turnout and the winning candidate were also calculated.
